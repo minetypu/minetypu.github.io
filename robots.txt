@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://minetypu.github.io/sitemap.html.gz
+Sitemap: https://minetypu.github.io/app/sitemap.html.gz
+Sitemap: https://minetypu.github.io/assets/sitemap.html.gz
+Sitemap: https://minetypu.github.io/css/sitemap.html.gz
+Sitemap: https://minetypu.github.io/includes/sitemap.html.gz
+Sitemap: https://minetypu.github.io/item/sitemap.html.gz
+Sitemap: https://minetypu.github.io/src/sitemap.html.gz
